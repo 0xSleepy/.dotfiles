@@ -6,6 +6,7 @@
 - polybar
 - picom-ibhagwan-git
 - rxvt-unicode
+- feh
 
 ## Fonts used :
 - JetBrainsMono Nerd 
