@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=KeepassXC
+Icon=keepassxc
+Exec=keepassxc
+Type=Application
+Terminal=false

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Discord
+Icon=discord
+Exec=discord
+Type=Application
+Terminal=false
