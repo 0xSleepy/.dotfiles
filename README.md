@@ -13,4 +13,4 @@
 
 All colors are set from .Xresources
 
-[![Screenshot-2022-01-14-15-54-43.png](https://i.postimg.cc/XYtKMBSR/Screenshot-2022-01-14-15-54-43.png)](https://postimg.cc/pmY5zTdC)
+![pic.png](https://i.ibb.co/bBsBTjP/pic.png)
